@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "991964749729",
+    "project_id": "ankitchat-543b8",
+    "storage_bucket": "ankitchat-543b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991964749729:android:380b277ae0fc8f93f4f5e0",
+        "android_client_info": {
+          "package_name": "com.ankitsharma.ankitchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991964749729-bn21ig7h2aesd49vbar1ho10upem7qaj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm0EFrbZ-784kr4jV0RGrq9mm3aBBWNaI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991964749729-bn21ig7h2aesd49vbar1ho10upem7qaj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
